@@ -1,4 +1,4 @@
-# dicee
+# Dicee
 
 Las Vegas Dicee App
 
